@@ -2,5 +2,4 @@ name: Deploy
 on:
   push:
     branches: [ main ]
-jobs:
 
